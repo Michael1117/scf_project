@@ -1,2 +1,1 @@
-# scf_project
-scf_project
+## 更改config/index.js 中的 useEslint: false
